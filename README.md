@@ -29,6 +29,7 @@ I'm a .Net Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW
 <img src="https://gist.githubusercontent.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/047773d458f688e485a26f6b9b0594457148cbdf/sql-server-icon.svg" width="40" height="40" title="SqlServer" alt="SqlServer" />   
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker"/>
 
 </p>
 
