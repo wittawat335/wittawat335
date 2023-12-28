@@ -10,14 +10,11 @@ I'm a .Net Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> ,<a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> ,[Medium.com](https://medium.com/).
 
 ---
-========================================================================================================================================
 
-### Skills
+### 🛠 &nbsp;Languages and Tools :
 
 
 <p align="left">
