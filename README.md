@@ -26,6 +26,7 @@ I'm a .Net Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="40" alt="Angular" title="Angular"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React" alt="React" />    
+<img src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f#file-sql-server-icon-svg" width="40" height="40" title="SqlServer" alt="SqlServer" />    
 
 </p>
 
