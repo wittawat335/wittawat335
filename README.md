@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 .Net Developer
 --------------
-
-* 🌍  I'm based in Banmi, Lopburi
 * ✉️  You can contact me at [wittawat335@gmail.com](mailto:wittawat335@gmail.com)
 
 ### Skills
