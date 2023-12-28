@@ -40,12 +40,11 @@ I'm a .Net Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW
 <tr>
     <td>
         <a href="http://www.github.com/wittawat335"><img src="https://github-readme-stats.vercel.app/api?username=wittawat335&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wittawat335's GitHub stats" /></a>
+        
     </td>
-       <td>
-           
-       </td>
+  
 </tr>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wittawat335&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
