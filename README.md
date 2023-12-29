@@ -15,7 +15,9 @@
 
  ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> ,[Medium.com](https://medium.com/).
+  </a> ,<a href="https://medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F" alt="Medium Badge"/>
+  </a>.
     
 </div>
 
