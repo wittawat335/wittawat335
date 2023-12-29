@@ -1,16 +1,27 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Wittawat+Fuangfu;" />
 </h1>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+<h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">&nbsp;About Me</h3>
 
-I'm a .Net Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
+<br/>
 
-- 🔭 I’m working as a .Net Developer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+<div align="center">
+    
+    I'm a .Net Developer.
+
+ 🔭 I’m working as a .Net Developer and contributing to frontend and backend for building web applications.
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+    
+</div>
+
+
+- 🔭 
+
+    🌱 Exploring Technical Content Writing.
+- 
 - ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> ,[Medium.com](https://medium.com/).
