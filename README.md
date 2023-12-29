@@ -30,6 +30,13 @@
 </div>
 
 ---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### 🔥 &nbsp; My Stats :
 <a href="http://www.github.com/wittawat335"><img src="https://github-readme-stats.vercel.app/api?username=wittawat335&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wittawat335's GitHub stats" /></a>
