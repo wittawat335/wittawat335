@@ -40,7 +40,8 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=wittawat335&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wittawat335's GitHub stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittawat335&layout=compact&theme=vision-friendly-dark" alt="wittawat335's GitHub stats" />
-</div>
+<br/><br/>
+
+<hr/>
+
+<br/>
