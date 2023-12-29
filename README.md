@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,ts,js,react,vite,visualstudio,vscode,github,tailwind,git,angular" />
-    <img src="https://skillicons.dev/icons?i=postman,postgres,javascript,typescript,firebase,mongodb,jquery,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,ts,js,jquery,react,vite,visualstudio,vscode,github,tailwind,git,angular" />
+    <img src="https://skillicons.dev/icons?i=postman,postgres,firebase,mongodb,docker" /><br>
 </div>
 
 ---
