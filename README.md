@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, ReactTS**
 
- ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
+ ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> ,<a href="https://medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
