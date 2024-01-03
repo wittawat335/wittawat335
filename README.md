@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
  
- 🌱 I’m currently learning **Docker, React**
+ 🌱 I’m currently learning  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Medium Badge"/>, **Docker, React**
 </div>
 
 
