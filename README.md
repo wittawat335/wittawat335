@@ -12,7 +12,7 @@
  🔭 I’m working as a .Net Developer and contributing to frontend and backend for building web applications.
 
   ⚡ In my free time I read and learn tech articles on <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> ,<a href="https://medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
